@@ -1,0 +1,48 @@
+/*
+* Sienna DeMedio
+* December 7th, 2017
+* Ribbon Seal Webpage 
+*/
+
+
+/* The universal selector */
+
+* {background-color: #f4e1ab;
+
+}
+
+/* Put body attributes here */
+
+body { font-family: verdana body copy;
+			}
+
+h1 {text-align: center;
+	font-family: verdana header;
+	font-size: 20pt;
+	color: red;}
+img {float: left}
+h2 {text-align: left;
+	font-family: verdana header;
+	font-size: 14pt;
+	color: green;}
+h3 {text-align: left;
+	font-family: verdana header;
+	font=size: 14pt;
+	color: green;}
+h3 {text-align: left;
+	font-family: verdana header;
+	font-size: 14pt;
+	color: green;}
+h4 {text-align: left;
+	font-family: verdana header;
+	font-size: 14pt;
+	color: green;}
+h5 {text-align: left;
+	font-family: verdana header;
+	font-size: 14pt;
+	color: green;
+
+
+
+
+ 
