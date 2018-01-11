@@ -1,0 +1,64 @@
+/* M. Schneider */
+/* Three Column Template */
+/* 28-Dec-2017 */
+
+* { font-family: Garamond body copy;
+    margin: 0;
+    padding: 0; }
+
+header { 
+    border-bottom: 2px solid #e5a2f9; 
+	text-align: center; 
+	font-weight: bold;}
+body {
+    width: 964px;
+    background-color: white;
+    margin: 15px auto;
+    border: 1px solid black; }
+
+#sidebarA {
+    width: 24%;
+    height: 400px;     
+    float: left;
+    border-right: 2px solid #e5a2f9;
+    padding: 15px;
+    Margin: 10px }
+
+main {
+    width: 40%; 
+    float: left; }
+
+#sidebarB {
+    width: 24%;
+    height: 400px;     
+    float: right;
+    border-left: 2px solid #e5a2f9;
+    padding: 25px;
+    margin: 5px; }
+
+footer {
+    clear: both; 
+    border-top: 2px solid #e5a2f9; }
+img {
+	float: left;
+	margin: 10px;
+	height: 115px;
+	width: 200px;}
+
+.bio { font-weight: bold;}
+	
+.acc {font-weight: bold;
+	text-decoration: underline;
+	text-align: center; }
+	
+.hed1 {float: left;
+		height: 150px;
+		width: 150px; }
+
+.source { padding: 5px;
+		margin-left: 10px; }
+
+.facts { text-align: center;}
+
+.ed {font-family: cursive; }
+	
